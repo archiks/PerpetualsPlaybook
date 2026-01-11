@@ -42,7 +42,7 @@ const App: React.FC = () => {
           <div className="pointer-events-auto">
             <button
               onClick={() => navigate(Route.HOME)}
-              className="font-serif font-bold text-xl tracking-tighter text-white hover:text-gold-400 transition-colors focus:outline-none"
+              className="font-serif font-bold text-xl tracking-tighter text-white hover:text-accent-cyan transition-colors focus:outline-none"
             >
               Perpetual Futures Playbook<span className="text-accent-cyan">™</span>
             </button>
