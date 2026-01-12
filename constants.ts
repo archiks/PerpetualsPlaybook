@@ -81,5 +81,5 @@ export const PAIN_POINTS = [
 export const COUNTRIES = [
   "United Kingdom", "United States", "Germany", "France", "Italy",
   "Spain", "Netherlands", "Switzerland", "Canada", "Australia",
-  "Japan", "Singapore", "United Arab Emirates", "South Africa"
+  "Japan", "Singapore", "United Arab Emirates", "South Africa", "Norway"
 ];
